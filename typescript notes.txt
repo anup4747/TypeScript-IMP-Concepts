@@ -1,0 +1,14 @@
+here we gooo ................. 
+Nov 25/11/2024
+
+Configuration check--
+tsc --init
+
+imp setting in ts config
+"outDir": "./dist",                                   /* Specify an output folder for all emitted files. */
+"removeComments": true,   
+"noEmitOnError": true,   
+"sourceMap": true,   
+
+
+
