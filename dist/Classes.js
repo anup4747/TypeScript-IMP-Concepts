@@ -16,7 +16,7 @@ class User {
     }
     deleteToken() {
         this._course_count = 0;
-        console.log("Token is delelted");
+        console.log("Token is deleted");
     }
     get courseCount() {
         return this._course_count;
