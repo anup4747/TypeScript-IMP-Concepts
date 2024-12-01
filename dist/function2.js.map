@@ -1,1 +1,1 @@
-{"version":3,"file":"function2.js","sourceRoot":"","sources":["../src/function2.ts"],"names":[],"mappings":""}
+{"version":3,"file":"function2.js","sourceRoot":"","sources":["../src/function2.ts"],"names":[],"mappings":";;AA8BA,MAAM,KAAK,GAAG,CAAC,OAAO,EAAE,KAAK,EAAE,KAAK,CAAC,CAAC;AAGtC,KAAK,CAAC,OAAO,CAAC,UAAU,CAAC;IACvB,OAAO,CAAC,GAAG,CAAC,CAAC,CAAC,WAAW,EAAE,CAAC,CAAC;AAC/B,CAAC,CAAC,CAAC;AAGH,KAAK,CAAC,OAAO,CAAC,CAAC,CAAC,EAAE,EAAE;IAClB,OAAO,CAAC,GAAG,CAAC,CAAC,CAAC,WAAW,EAAE,CAAC,CAAC;AAC/B,CAAC,CAAC,CAAC"}
