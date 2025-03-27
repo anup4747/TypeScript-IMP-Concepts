@@ -27,33 +27,37 @@ This repository demonstrates the use of TypeScript in a basic project. TypeScrip
    npm install -g typescript
 
 Verify the installation: After installation, you can verify the TypeScript version by running:
-
+```
 tsc --version
+```
 
 Install TypeScript locally (Optional): If you prefer to install TypeScript only for a specific project:
 
 Verify the installation: After installation, you can verify the TypeScript version by running:
-
-
-
+```
 tsc --version
+```
 Install TypeScript locally (Optional): If you prefer to install TypeScript only for a specific project:
-
+```
 npm install --save-dev typescript
+```
 Initialize TypeScript Configuration: To create a tsconfig.json file for project configuration:
+```
 tsc --init
-
+```
 # How to Use TypeScript
 
 Create a TypeScript File: Create a .ts file, e.g., app.ts, and start writing TypeScript code.
 
 Compile TypeScript: Use the tsc command to compile TypeScript files into JavaScript:
-
+```
 tsc app.ts
+```
 
 Run the JavaScript Output: The TypeScript compiler generates a .js file (e.g., app.js), which can be run using Node.js:
-
+```
 node app.js
+```
 
 # Extra Info
 
